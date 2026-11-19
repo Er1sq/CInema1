@@ -1,0 +1,6 @@
+{
+  "name": "Кинотеатр Люмьер",
+  "description": "Онлайн-афиша, выбор мест в зале и бронирование билетов в кинотеатре Люмьер.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
